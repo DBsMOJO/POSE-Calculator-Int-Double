@@ -1,5 +1,4 @@
 # POSE-Calculator-Int-Double
-r## Task 1
 ### Addition of integer
 Write a program in the source code file `Calculator.cs` that reads two integers from the console, adds these two numbers, and outputs the entire calculation to the console, formatted right-aligned.
 ## Task 2
